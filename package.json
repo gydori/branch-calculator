@@ -1,0 +1,22 @@
+{
+  "name": "branch_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gydori/branch-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gydori/branch-calculator/issues"
+  },
+  "homepage": "https://github.com/gydori/branch-calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
